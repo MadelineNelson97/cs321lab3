@@ -3,7 +3,8 @@ HashTable project
 ## Usage
 From src directory, run:
 javac HashTest.java
-java HashTest <data source type> <max load factor> <debug level>
+
+java HashTest \<data source type> \<max load factor> \<debug level>
 ## Note
 Data source types:
 1 -> random integers
